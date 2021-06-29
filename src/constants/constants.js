@@ -1,0 +1,55 @@
+export const projects = [
+  {
+    title: 'Recipe Search Engine',
+    description: "This project is a recipe finder web application which provides users to look up for recipes and use other functions. The recipes are retrieved from spoonacular database by using their api.",
+    image: '/images/recipe.png',
+    tags: ['React', 'Django'],
+    source: 'https://warm-crag-08799.herokuapp.com/',
+    visit: 'https://github.com/ngken0995/nutrition_web',
+    id: 0,
+  },
+  {
+    title: 'Web Image Enabling App',
+    description:"View patients DICOM images with Othanc viewer. interoperability with SIIM FHIR server and DICOM server.",
+    image: '/images/image_enable.png',
+    tags: ['React'],
+    source: 'http://image-enable.herokuapp.com/',
+    visit: 'https://github.com/ngken0995/imageWeb',
+    id: 1,
+  },
+  {
+    title: 'Mail App',
+    description: "Design a front-end for an email client that makes API calls to send and receive emails.",
+      image: '/images/mail.png',
+      tags: ['Django', 'HTML', 'CSS'],
+    source: 'https://glacial-sierra-08820.herokuapp.com/',
+    visit: 'https://github.com/ngken0995/mail',
+    id: 2,
+  },
+  {
+    title: 'Wiki',
+    description: "Wikipedia is a free online encyclopedia that consists of a number of encyclopedia entries on various topics. It can be helpful to store encyclopedia entries using a lighter-weight human-friendly markup language. This project we’ll store encyclopedia entries using a markup language called Markdown.",
+      image: '/images/wiki.png',
+      tags: ['Django', 'HTML', 'CSS'],
+    source: 'https://ancient-refuge-14687.herokuapp.com/',
+    visit: 'https://github.com/ngken0995/wiki',
+    id: 3,
+  },
+  {
+    title: 'E-Commerce',
+    description:"Design an eBay-like e-commerce auction site that will allow users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist.”",
+    image: '/images/commerce.png',
+    tags: ['Django', 'HTML', 'CSS'],
+    source: 'https://shrouded-tor-19552.herokuapp.com/',
+    visit: 'https://github.com/ngken0995/commerce',
+    id: 4,
+  },
+];
+
+export const TimeLineData = [
+  { year: 2017, text: 'Started my journey', },
+  { year: 2018, text: 'Worked as a freelance developer', },
+  { year: 2019, text: 'Founded JavaScript Mastery', },
+  { year: 2020, text: 'Shared my projects with the world', },
+  { year: 2021, text: 'Started my own platform', },
+];
