@@ -12,7 +12,7 @@ const Hero = (props) => (
           Hello, I'm Kenneth
         </SectionTitle>
         <SectionText>
-        I'm a Full Stack Developer based in New York City, NY and have extensive knowledge in Python, Django, JavaScript and React. Also, a graduate student from Georgia Institute of Technology in Computer Science. In my spare time I'm a yogi and climber.
+        I'm a Full Stack Developer based in New York City, NY and have extensive knowledge in Python, Django, JavaScript and React. In my spare time I'm a yogi and climber.
         </SectionText>
       </LeftSection>
     </Section>
