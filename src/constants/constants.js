@@ -4,6 +4,7 @@ export const projects = [
     description: "This project is a recipe finder web application which provides users to look up for recipes and use other functions. The recipes are retrieved from spoonacular database by using their api.",
     image: '/images/recipe.png',
     tags: ['React', 'Django'],
+    video: 'https://www.youtube.com/watch?v=t7ElIlvMbw8',
     source: 'https://warm-crag-08799.herokuapp.com/',
     visit: 'https://github.com/ngken0995/nutrition_web',
     id: 0,
